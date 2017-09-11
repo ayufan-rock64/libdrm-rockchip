@@ -1,3 +1,15 @@
+libdrm (2.4.80-2ayufan1) bionic; urgency=medium
+
+  * Compile for bionic
+
+ -- Kamil Trzciński <ayufan@ayufan.eu>  Mon, 17 Dec 2017 12:15:55 +0200
+
+libdrm (2.4.74-2ayufan1) artful; urgency=medium
+
+  * Automated release
+
+ -- Debian X Strike Force <debian-x@lists.debian.org>  Mon, 11 Sep 2017 12:15:55 +0200
+
 libdrm (2.4.74-2) unstable; urgency=medium
 
   * Add rockchip drm support
