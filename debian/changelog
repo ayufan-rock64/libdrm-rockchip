@@ -1,3 +1,9 @@
+libdrm (2.4.88-1ayufan1) testing; urgency=medium
+
+  * Bump to libdrm 2.4.88
+
+ -- Kamil Trzciński <ayufan@ayufan.eu>  Sun, 17 Dec 2017 20:59:36 +0100
+
 libdrm (2.4.80-2ayufan1) bionic; urgency=medium
 
   * Compile for bionic
