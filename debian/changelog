@@ -1,3 +1,9 @@
+libdrm (2.4.89-1ayufan1) testing; urgency=medium
+
+  * Update to libdrm 2.4.89
+
+ -- Kamil Trzciński <ayufan@ayufan.eu>  Tue, 19 Dec 2017 10:04:50 +0100
+
 libdrm (2.4.88-1ayufan2) testing; urgency=medium
 
   * Revert change to xf86drm.h
