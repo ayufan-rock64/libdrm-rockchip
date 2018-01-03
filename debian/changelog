@@ -1,3 +1,9 @@
+libdrm (2.4.89-1ayufan4) testing; urgency=emergency
+
+  * Force xenial release
+
+ -- Kamil Trzciński <ayufan@ayufan.eu>  Thu, 04 Jan 2018 11:00:24 +0100
+
 libdrm (2.4.89-1ayufan1) testing; urgency=medium
 
   * Update to libdrm 2.4.89
