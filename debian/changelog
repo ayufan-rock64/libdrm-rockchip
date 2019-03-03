@@ -1,3 +1,9 @@
+libdrm (2.4.97-1ayufan1) testing; urgency=medium
+
+  * Update to libdrm 2.4.97
+
+ -- Kamil Trzciński <ayufan@ayufan.eu>  Sun, 03 Mar 2019 20:17:47 +0100
+
 libdrm (2.4.89-1ayufan1) testing; urgency=medium
 
   * Update to libdrm 2.4.89
